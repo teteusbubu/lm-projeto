@@ -1,0 +1,21 @@
+.containen{  
+background-color: #555555;
+width: 400px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-left: 10px;
+color: rgb(0, 250, 146);
+/*top,righ,bottom e left*/
+
+/*estudos de margin*/
+
+border-radius: 30px ;
+
+margin-top: 20px;
+
+margin-left: 20px;
+display: inline-block;}
+
+
+

@@ -1,0 +1,64 @@
+body{
+font-size: 17px;
+color: #444;
+line-height: 1.7;
+
+background-image: url("./IMG/imgteste1.jpeg"); 
+}
+
+.teste2{font-size: 18px;
+color: black;
+}
+
+body{ background-color: rgba(255, 255, 0, 0.267)}
+
+.logo{ border-radius: 70%;
+    margin-left: 20em;}
+
+#bode2{color: yellow;}
+
+h1{ color: yellow;
+    margin-top: 60px;
+    text-align: center;}
+
+h2{ color: yellow;
+    margin-top: 30px;
+    text-align: center;}
+    
+.button{color: yellow;
+   text-align: center;
+   text-decoration: none;
+   background-color: black;
+   color: yellow;
+   padding: 15px;
+   border-bottom: 3px solid yellow;
+   font-weight: bold;}
+
+img{
+    border: rgb(255, 255, 0) solid 3px;
+    text-align: left;
+    margin-left: 10em;}
+
+.container{
+    margin: 0 auto;
+    width: 960px;
+    padding: 20px;
+    background-color: black;
+    border: 3px solid rgb(15, 15, 202);}
+
+.link{ margin-top: 20px;
+    text-align: center;}
+
+.card{
+    float: left;
+    padding: 10px;
+    background-color: rgba(255, 224, 47, 75%);
+    margin-bottom: 10px;
+    border: 3px solid black;
+    border-radius: 15px;}
+
+.img1{
+    ;
+}
+    
+   

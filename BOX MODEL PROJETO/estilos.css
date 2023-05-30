@@ -1,0 +1,39 @@
+.bode1{display: inline-block;
+    border-radius: 10%;
+    background-color: rgba(88, 45, 5, 0.);
+    width: 400px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color:rgb(255, 192, 252);
+    border:rgb(235, 120, 26) solid 4px;
+    margin-top: 30px ;
+    margin-left: 55px;}
+
+h1{ 
+    margin: 100px;
+}
+
+img{
+    width: 350px;
+    margin-left: 20px;
+    margin-top: -40px;
+    border-radius: 10%;
+}
+
+
+#bode2{ padding-left: 8%;
+    color: greenyellow;}
+
+
+#bode3{ color: greenyellow;}
+
+
+#bode4{color: mediumpurple;}
+
+body{background-image: url(./img/balangueiras.gif);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position: center center;}
