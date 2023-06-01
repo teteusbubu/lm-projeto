@@ -2,22 +2,16 @@
     list-style: none;
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
-}
+    box-sizing: border-box;}
+
 .body{
     background-image: url(./IMG/neoquimicaarena.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-
-    
-}
-
-
-
+    background-color: black;}
 
 .logotipo{
-    color: white;
-}
+    color: white;}
 
 .box{
     width: 400px;
@@ -26,23 +20,21 @@
     border-radius: 5%;
     box-shadow: 5px 5px 20px white;
     transition: all ease 1s;
-    display: flex;
-}
+    display: flex;}
 
 
 .content-img{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(100px, auto ));
-    gap: 30px;
-}
+    gap: 30px;}
+
 .header{
     width: 100%;
     background-color: rgba(245, 245, 245, 0.795);
     display: flex;
     justify-content:space-around ;
     align-items: center;
-    padding: -30px 0;
-}
+    padding: -30px 0;}
 
 .links{
     width: 300px;
@@ -50,14 +42,10 @@
     padding-left: 300px;
     text-decoration: red;
     padding-right: 150px;
-    transition-delay: 1s;
-   
-}
+    transition-delay: 1s;}
 
 .logocorin{
-    display: flex;
-    
-}
+    display: flex;}
 
 .container{
     position: relative;
@@ -66,8 +54,7 @@
     width: 1200px;
     padding:200px ;
     background-color:#ffffff;
-    border-radius: 15px;
-}
+    border-radius: 15px;}
 
 #roupa{
 position: relative;
@@ -77,29 +64,18 @@ padding-top: 30px;}
 
 #th{
 width: 700px;
-padding-left: -60px ;
-}
+padding-left: -60px ;}
 
 .p{
-   background-color: rgba(0, 0, 0, 0.685);
-
-}
+   background-color: rgba(0, 0, 0, 0.685);}
 
 .p2{
-   background-color: rgba(0, 0, 0, 0.685);;
-}
+   background-color: rgba(0, 0, 0, 0.685);;}
 
 .neo{
     padding-left: 90px;
-    padding-top: 60px;
-}
+    padding-top: 60px;}
 
-
-
-
-
-
-
-
-
+.jogadores:hover{
+    transform: translate(-5px) scale(1.5);}
 
